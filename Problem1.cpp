@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+int sort(int a){
+    //function
+}
 int main() {
     int E, N;
     cout<< "Enter current amount of energy (integer value): E = ";
@@ -19,7 +21,8 @@ int main() {
     //sorting the energy array in decreasing order
     for (int i = 0; i < N; i++)
     {
-        
+        //loop
+        sort(A[N]);
     }
     
 
